@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi! I'm Morgan 👋
+
+I am a CS enthusiast currently studying for a MSc in Industrial Economics and Technology Management 🎓
+
+My interests are quite broad, and I dabble in everything from AI/ML and data science to web and mobile app development 🙌
+
+
+### My GitHub stats 📈
+
+[![Morgan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=morganfh&bg_color=42,c60073,0017ca&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&hide=stars&show_icons=true&icon_color=fff)](https://github-readme-stats.vercel.app/api?username=morganfh&bg_color=42,c60073,0017ca&title_color=fff&text_color=fff&include_all_commits=true&count_private=true&hide=stars&show_icons=true&icon_color=fff)
+
 
 <!--
 **MorganFH/morganFH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
